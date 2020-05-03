@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "ssrc"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-o5zzecnj70nx"
+s3_prefix = "ssrc"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
