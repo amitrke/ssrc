@@ -1,4 +1,7 @@
 # ssrc serverless API
+
+URL : https://ha11dm4x06.execute-api.us-east-1.amazonaws.com/Prod/ping
+
 The ssrc project, created with [`aws-serverless-java-container`](https://github.com/awslabs/aws-serverless-java-container).
 
 The starter project defines a simple `/ping` resource that can accept `GET` requests with its tests.
